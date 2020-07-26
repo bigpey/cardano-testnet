@@ -1,1 +1,35 @@
-ff
+{
+  "poolName": "bigpey",
+  "poolOwner": [
+    {
+      "ownerName": "wallet-1"
+    }
+  ],
+  "poolRewards": "wallet-1",
+  "poolPledge": "2500000000000",
+  "poolCost": "340000000",
+  "poolMargin": "0.05",
+  "poolRelays": [
+    {
+      "relayType": "ip",
+      "relayEntry": "64.227.103.23",
+      "relayPort": "3001"
+    },
+    {
+      "relayType": "ip",
+      "relayEntry": "206.189.126.96",
+      "relayPort": "3001"
+    }
+  ],
+  "poolMetaName": "bigpey Pool",
+  "poolMetaDescription": "This is a bigpey pool for testing.",
+  "poolMetaTicker": "PEY",
+  "poolMetaHomepage": "https://www.youtube.com/channel/UC07M2zYAvMgzrIrCSeoRhNA",
+  "poolMetaUrl": "https://tinyurl.com/bigpey-small",
+  "poolExtendedMetaUrl": "https://tinyurl.com/bigpey-large",
+  "---": "--- DO NOT EDIT BELOW THIS LINE ---",
+  "poolID": "e7442583fea8beb9a1c1c7f08ae16da8cd9fb0d8569b9e16e83efe5d",
+  "poolMetaHash": "4aefd2bb5746093a9836929183cf7d2d0066282a5dbdf0d59d261a9139f4c1df",
+  "regCertCreated": "Sun, 26 Jul 2020 22:01:51 +0000",
+  "regCertFile": "bigpey.pool.cert"
+}
