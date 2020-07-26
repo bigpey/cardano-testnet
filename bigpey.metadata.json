@@ -1,1 +1,6 @@
-ff
+{
+  "name": "bigpey Pool",
+  "description": "This is a bigpey pool for testing.",
+  "ticker": "PEY",
+  "homepage": "https://www.youtube.com/channel/UC07M2zYAvMgzrIrCSeoRhNA"
+}
